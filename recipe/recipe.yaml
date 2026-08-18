@@ -14,7 +14,7 @@ source:
   sha256: d84ee7ed10c50a2717eb7f21319f9a220f8c18edf71b06e59a064e0557d718a0
 
 build:
-  number: 0
+  number: 1
   skip: is_abi3 and not is_python_min
   script:
     - ${{ PYTHON }} -m pip install . -vv --no-deps --no-build-isolation --disable-pip-version-check
