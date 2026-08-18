@@ -74,7 +74,6 @@ about:
   license: Apache-2.0
   license_file:
     - LICENSE
-    - pyavd_utils/THIRD_PARTY_LICENSES.txt
     - THIRDPARTY.yml
   repository: https://github.com/aristanetworks/pyavd-utils
 
